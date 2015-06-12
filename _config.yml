@@ -1,0 +1,12 @@
+# Site settings
+title: Lancelot Nyachoto
+email: lancelot@quantum.com.na
+description: > # this means to ignore newlines until "baseurl:"
+  Lancelot Nyachoto's blog 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kombuta.com" # the base hostname & protocol for your site
+twitter_username: lnyachoto
+github_username:  kombuta
+
+# Build settings
+markdown: kramdown
