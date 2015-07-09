@@ -17,7 +17,7 @@ As a developer I'm excited to start writing apps for the watch and hopefully spi
 
 All in all I'm happy with the Pebble Time Smartwatch. The only draw back is the inability to reply to messages even with a predefined "OK", "NO" or "YES". Maybe that will become a feature in future releases of the Pebble watch OS. And lastly it would be great if it worked with Firefox OS :)
 
-![Watchface]({{ site.url }}/assets/watchface.png =300x)
-![Activity Monitor]({{ site.url }}/assets/activity_monitor.png =300x)
-![Sleep Monitor]({{ site.url }}/assets/sleep_montor.png =300x)
-![Sample Game]({{ site.url }}/assets/game.png =300x)
+![Watchface]({{ site.url }}/assets/watchface.png)
+![Activity Monitor]({{ site.url }}/assets/activity_monitor.png)
+![Sleep Monitor]({{ site.url }}/assets/sleep_montor.png)
+![Sample Game]({{ site.url }}/assets/game.png)
